@@ -539,7 +539,7 @@ DATA;
 #524 = PLANE ( 'NONE',  #129 ) ;
 #525 = ORIENTED_EDGE ( 'NONE', *, *, #523, .F. ) ;
 #526 = PLANE ( 'NONE',  #291 ) ;
-#527 = MANIFOLD_SOLID_BREP ( 'Вырез-Вытянуть1', #345 ) ;
+#527 = MANIFOLD_SOLID_BREP ( 'Г‚Г»Г°ГҐГ§-Г‚Г»ГІГїГ­ГіГІГј1', #345 ) ;
 #528 = ORIENTED_EDGE ( 'NONE', *, *, #73, .F. ) ;
 #529 = CARTESIAN_POINT ( 'NONE',  ( 0.000000000000000000, 9.300000000000000711, 10.00000000000000000 ) ) ;
 #530 = ORIENTED_EDGE ( 'NONE', *, *, #325, .T. ) ;
